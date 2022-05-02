@@ -1,7 +1,7 @@
 {
   "name": "sudilapp",
   "version": "0.1.0",
-  "homepage": "https://SUDIL-JIWANSHU.github.io/FIRST_APP",
+  "homepage": "https://SUDIL-JIWANSHU.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
